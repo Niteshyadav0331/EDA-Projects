@@ -1,2 +1,2 @@
 # EDA-Projects
-This repository contains projects on EDA.
+This repository contains EDA projects made by me.
